@@ -1,0 +1,12 @@
+0000000000000000000000000000000000000000 8af7f283943e3fdef86927ded84d55ebc51c259e unknown <robert.domrique.coder@gmail.com> 1692968416 +0800	commit (initial): backend
+8af7f283943e3fdef86927ded84d55ebc51c259e 41b6cee3372e2c53b95dc90d06c71917d8e714fe unknown <robert.domrique.coder@gmail.com> 1693143554 +0800	commit: algo integration
+41b6cee3372e2c53b95dc90d06c71917d8e714fe b6b2abddfc7bcd6e19debad4ad6911f8bd8ba045 unknown <robert.domrique.coder@gmail.com> 1693395769 +0800	commit: add editTask function
+b6b2abddfc7bcd6e19debad4ad6911f8bd8ba045 0f41218b8acfa65ee692297629a517ae200c168a unknown <robert.domrique.coder@gmail.com> 1693397166 +0800	commit: modifid stack button
+0f41218b8acfa65ee692297629a517ae200c168a b5882d6a437a17ab943cc21ba47d61fb2ccd48b7 unknown <robert.domrique.coder@gmail.com> 1693587357 +0800	commit: fixing the stackboard :todo and progress
+b5882d6a437a17ab943cc21ba47d61fb2ccd48b7 61e9b96ba94bafff6eb192d4484d3c01ad353082 unknown <robert.domrique.coder@gmail.com> 1693658936 +0800	commit: Stackboard is already fixed
+61e9b96ba94bafff6eb192d4484d3c01ad353082 68d21c7857493bf3761ed41a8532d2dcdf302dc5 unknown <robert.domrique.coder@gmail.com> 1693722680 +0800	commit: fix calendar
+68d21c7857493bf3761ed41a8532d2dcdf302dc5 e181dbeeab96dd3a8697ed33db69971683be9659 unknown <robert.domrique.coder@gmail.com> 1693897503 +0800	commit: Add dashboard
+e181dbeeab96dd3a8697ed33db69971683be9659 a25fa864d2997da2e8668b524d3478276db016fc unknown <robert.domrique.coder@gmail.com> 1693911472 +0800	commit: fixed dashboard
+a25fa864d2997da2e8668b524d3478276db016fc 7c7404e2315d488f00d302ca83383c76d3f3ab4a unknown <robert.domrique.coder@gmail.com> 1696659623 +0800	commit: add backend
+7c7404e2315d488f00d302ca83383c76d3f3ab4a 0000000000000000000000000000000000000000 unknown <robert.domrique.coder@gmail.com> 1696659732 +0800	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 7c7404e2315d488f00d302ca83383c76d3f3ab4a unknown <robert.domrique.coder@gmail.com> 1696659732 +0800	Branch: renamed refs/heads/master to refs/heads/main
